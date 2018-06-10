@@ -1,4 +1,4 @@
-# pitching tips
+# AngelHack Pitching Tips
 
 1. be passionate
 	* why are you here?
@@ -29,7 +29,7 @@
 	* talk to the wall
 	* never speak to yourself
 
-## pro tips
+## Pro Tips
 1. skip login screen
 2. coordinate with your team
 3. know your audience
